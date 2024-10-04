@@ -23,7 +23,7 @@
     "description": "Provides weather information from OpenWeatherMap.",
     "version": "1.0.0",
     "author": "Your Name",
-    "license": "MIT"
+    "license": "Apache 2.0"
   }
 }
 
