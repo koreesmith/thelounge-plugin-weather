@@ -1,0 +1,29 @@
+{
+  "name": "thelounge-plugin-weather",
+  "version": "1.0.0",
+  "description": "A The Lounge plugin that provides weather information using OpenWeatherMap API.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "thelounge",
+    "plugin",
+    "weather",
+    "openweathermap"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "peerDependencies": {
+    "thelounge": "^3.0.0"
+  },
+  "thelounge": {
+    "name": "Weather Plugin",
+    "description": "Provides weather information from OpenWeatherMap.",
+    "version": "1.0.0",
+    "author": "Your Name",
+    "license": "MIT"
+  }
+}
+
