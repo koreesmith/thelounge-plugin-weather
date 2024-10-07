@@ -1,7 +1,7 @@
 const https = require('https');
 
 // Replace 'YOUR_API_KEY' with your actual OpenWeatherMap API key
-const API_KEY = 'YOUR_API_KEY';
+const API_KEY = 'ed3750d6a857e7834ad671de0628412e';
 const API_URL = 'https://api.openweathermap.org/data/2.5/weather';
 
 const weatherCommand = {
