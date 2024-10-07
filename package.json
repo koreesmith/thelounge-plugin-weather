@@ -18,6 +18,11 @@
   "peerDependencies": {
     "thelounge": "^3.0.0"
   },
+  "homepage": "https://github.com/koreesmith/thelounge-plugin-weather",
+  "bugs": {
+    "url": "https://github.com/koreesmith/thelounge-plugin-weather/issues",
+    "email": "koree@ameth.org"
+  },
   "thelounge": {
     "name": "Weather Plugin",
     "description": "Provides weather information from OpenWeatherMap.",
