@@ -1,6 +1,6 @@
 {
   "name": "thelounge-plugin-weather",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A The Lounge plugin that provides weather information using OpenWeatherMap API.",
   "main": "index.js",
   "scripts": {
@@ -25,7 +25,7 @@
   "thelounge": {
     "name": "Weather Plugin",
     "description": "Provides weather information from OpenWeatherMap.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Koree A. Smith",
     "license": "Apache-2.0"
   },
